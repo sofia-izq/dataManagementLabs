@@ -3,13 +3,13 @@
 ### Number Row Characters ###
 * !  exclamation 
 * @  
-*\# 
+* \# 
 * $ 
 * %  
 * ^  
-* & 
+* & \
 *\* 
-* ()
+* (
 * -
 * _
 * +

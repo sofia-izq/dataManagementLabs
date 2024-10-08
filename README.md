@@ -23,5 +23,14 @@
 😁
 🙃
 
+## Keyboard shortcuts ##
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
 
+Shortcuts I would like to start using: 
+- shift+command+D : open desktop folder
+- Command–Grave accent (`): Activate the next open window in the front app
+- 
 
